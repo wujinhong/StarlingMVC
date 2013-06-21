@@ -1,0 +1,19 @@
+# deployment artifacts
+#ivy-*.xml
+
+# build artifacts
+target/
+lib/
+ivy.xml
+.ivysettings/
+clean*
+
+# IDE project files
+*.geany
+
+# vim
+*~
+*.swp
+
+# OS X
+.DS_Store
