@@ -10,6 +10,7 @@ package com.njly.providers
 	
 	public class GameObjectProvider extends BeanProvider
 	{
+		private var beans:Array;
 		public function GameObjectProvider()
 		{
 			beans = [new GameModel(),

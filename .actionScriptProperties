@@ -4,7 +4,7 @@
     <compilerSourcePath>
       <compilerSourcePathEntry kind="1" linkType="1" path="libs/Starling-Extension-Graphics"/>
       <compilerSourcePathEntry kind="1" linkType="1" path="libs/Starling-Framework-1.3RC/starling/src"/>
-      <compilerSourcePathEntry kind="1" linkType="1" path="libs/tarlingMVC-v1.1-24-g643455e/src"/>
+      <compilerSourcePathEntry kind="1" linkType="1" path="libs/starlingMVC-v1.1/src"/>
     </compilerSourcePath>
     <libraryPath defaultLinkType="0">
       <libraryPathEntry kind="4" path="">
